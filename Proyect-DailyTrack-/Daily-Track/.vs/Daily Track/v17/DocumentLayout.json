@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomeLap\\Desktop\\Other}\\Proyect-DailyTrack-\\Daily-Track\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmprincipalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmprincipaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8562F763-7E08-4A96-B880-95A2257ACBFD}|..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Daily-Track.csproj|c:\\users\\homelap\\documents\\proyecto\\other\\proyect-dailytrack-\\daily-track\\daily-track\\forms\\frmaddeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReservation.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReservation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReservation.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReservation.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReservation.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:08:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmReport.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReport.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReport.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmReport.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:07:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipalStudent.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalStudent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalStudent.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalStudent.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalStudent.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:06:52.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmStudents.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmStudents.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmStudents.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmStudents.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmStudents.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:52:02.165Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrincipalAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalAdmin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalAdmin.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmPrincipalAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:56:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:56:42.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAddEventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAddEventos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAddEventos.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAddEventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proyecto\\Other\\Proyect-DailyTrack-\\Daily-Track\\Daily-Track\\Forms\\FrmAddEventos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:56:25.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
